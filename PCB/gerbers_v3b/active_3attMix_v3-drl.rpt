@@ -1,0 +1,27 @@
+Drill report for J:\music\Dave_modules\Triple-Attenuator-Mixer\active_3attMix\active_3attMix_v2.kicad_pcb
+Created on 7/10/2019 7:47:18 AM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  Top                       front
+    L2 :  Bottom                    back
+
+
+Drill file 'active_3attMix_v2-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (13 holes)
+    T2  1.00mm  0.039"  (12 holes)
+    T3  1.02mm  0.040"  (10 holes)
+    T4  1.10mm  0.043"  (26 holes)
+    T5  1.50mm  0.059"  (15 holes)  (with 8 slots)
+
+    Total plated holes count 76
+
+
+Drill file 'active_3attMix_v2-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2.20mm  0.087"  (7 holes)
+
+    Total unplated holes count 7
